@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(236, 175, 61);
+}
+
+h1{
+    color: whitesmoke;
+    padding-top: 30px;
+    font-size: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.row h1{
+    font-size: 90px;
+    padding: 30px;
+}
+
+.row{
+    justify-content: center;
+}
+
+.buttons{
+    padding-top: 50px;
+}
+
+.btn{
+    border-radius: 30px;
+    font-size: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
