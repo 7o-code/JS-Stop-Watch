@@ -91,7 +91,7 @@ Stop.addEventListener('click', () => {
 
     Reset();
 
-//option basmaga
+//another dirty way to restart the timer
     // window.location.reload();
   }
 });
